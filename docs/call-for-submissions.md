@@ -7,8 +7,8 @@ The 14th International Workshop on Vaccine and Drug Ontology Studies will be hel
 This meeting will be held online. A Zoom link will be provided to the registered participants before the workshop.
 
 ## Conference Dates 
-Paper submission: <del>August 31, 2025</del><BR>
-Notification of acceptance: <del>September 30, 2025</del><BR>
+Paper submission: August 31, 2025<BR>
+Notification of acceptance: September 30, 2025<BR>
 Last abstract submission: October 15, 2025<BR>
 Acceptance of abstract: October 31, 2025<BR><BR>
 Workshop: **To-Be-Determined (likely on or right November 7, 2025; Half-day**<BR>
@@ -17,7 +17,7 @@ Zoom link: Please see the [Program](./program.md) page.<BR><BR>
 Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
 Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2025](https://easychair.org/my/conference?conf=vdos2025)<BR>
 
-We suggest that you submit your papers directly to JBMS if you think your paper meets the journal paper quality. Please follow the JBMS paper submission instructions, and remember to select the **[JBMS VDOS collection](https://www.biomedcentral.com/collections/vdos2023)** link (Note: the collection is labeled as **vdos2023**, but it can still be used for vdos2025 submission). Please note that there is no guarantee that the journal submission will be reviewed before the workshop. If the journal submission is not reviewed in a timely manner, the authors may be suggested to submit an abstract to EasyChair so that they may still be able to present the paper in the workshop.  
+We suggest that you submit your papers directly to JBMS if you think your paper meets the journal paper quality. Please follow the JBMS paper submission instructions, and remember to select the **[JBMS VDOS collection](https://www.biomedcentral.com/collections/vdos2023)** link (Note: the collection is labeled as **vdos2023**, but it can still be used for vdos2025 submission). Please note that there is no guarantee that the journal submission will be reviewed before the workshop. If the journal submission is not reviewed in a timely manner, the authors may be asked to submit an abstract to EasyChair so that they may still be able to present the paper in the workshop.  
 
 If your paper is more preliminary but is suitable for the conference presentation, we suggest you submit it to our **[EasyChair](https://easychair.org/my/conference?conf=vdos2025)**. For the EasyChair submissions, all selected full-length papers and short papers will be invited to submit a full revised version to the Journal of Biomedical Semantics (JBMS) VDOS Special Issue. The conference paper format for EasyChair submission will be the same as the format used in ICBO. Contributions must be delivered non-anonymously and as a single PDF file, following the CEUR-ART [template.docx file](https://icbo-conference.github.io/icbo2025/papers/CEUR-Template-1col.docx), single column. There is also an Overleaf Template available [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).<br>
 
