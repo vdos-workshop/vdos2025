@@ -12,7 +12,7 @@ Notification of acceptance: September 30, 2025<BR>
 Last abstract submission: October 15, 2025<BR>
 Acceptance of abstract: October 31, 2025<BR><BR>
 Workshop: **To-Be-Determined (likely on or right November 7, 2025; Half-day**<BR>
-**Registration**: Please register for the [VDOS 2025 workshop](a link will be made available soon) free of charge.<BR><BR>
+**Registration**: The link for registration will be made available soon free of charge.<BR><BR>
 Zoom link: Please see the [Program](./program.md) page.<BR><BR>
 Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
 Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2025](https://easychair.org/my/conference?conf=vdos2025)<BR>
