@@ -7,10 +7,10 @@ The 14th International Workshop on Vaccine and Drug Ontology Studies will be hel
 This meeting will be held online. A Zoom link will be provided to the registered participants before the workshop.
 
 ## Conference Dates 
-Paper submission: August 31, 2025<BR>
+Journal Paper submission: August 31, 2025<BR>
 Notification of acceptance: September 30, 2025<BR>
-Last abstract submission: October 15, 2025<BR>
-Acceptance of abstract: October 31, 2025<BR><BR>
+EasyChair (full, short, & abstract) submission: October 15, 2025<BR>
+Notification of acceptance: October 31, 2025<BR><BR>
 Workshop: **To-Be-Determined (likely on or right November 7, 2025; Half-day**<BR>
 **Registration**: The link for registration will be made available soon free of charge.<BR><BR>
 Zoom link: Please see the [Program](./program.md) page.<BR><BR>
