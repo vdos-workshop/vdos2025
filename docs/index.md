@@ -4,10 +4,10 @@ The 14th International Workshop on Vaccine and Drug Ontology Studies will be hel
 Please, refer to the [ICBO website](https://icbo-conference.github.io/icbo2025/) for more information on other workshops and the main ICBO conference. 
 
 ## Conference Dates 
-Paper submission: August 31, 2025<BR>
+Journal Paper submission: August 31, 2025<BR>
 Notification of acceptance: September 30, 2025<BR>
-Last abstract submission: October 15, 2025<BR>
-Acceptance of abstract: October 31, 2025<BR><BR>
+EasyChair (full, short, & abstract) submission: October 15, 2025<BR>
+Notification of acceptance: October 31, 2025<BR><BR>
 Workshop: **To-Be-Determined (likely on or right November 7, 2025; Half-day**)<BR>
 **Registration**: The link for registration will be made available soon free of charge.<BR><BR>
 Zoom link: Please see the [Program](./program.md) page.<BR><BR>
