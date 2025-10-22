@@ -8,8 +8,8 @@ Journal Paper submission: August 31, 2025<BR>
 Notification of acceptance: September 30, 2025<BR>
 EasyChair (full, short, & abstract) submission: October 15, 2025<BR>
 Notification of acceptance: October 31, 2025<BR><BR>
-Workshop: **To-Be-Determined (likely on or around November 7, 2025; Half-day**)<BR>
-**Registration**: The link for registration will be made available soon free of charge.<BR><BR>
+**Workshop**: November 7, 2025 (9 AM - 12:40 PM Eastern Standard Time)<BR>
+**Registration**: Register through the main [ICBO 2025 registration system](https://docs.google.com/forms/d/e/1FAIpQLSfeRGzYjdJnzsKFVz4L-8R5fVI9gqVptQz37vAzgxjDUcduEQ/viewform) free of charge.<BR><BR>
 Zoom link: Please see the [Program](./program.md) page.<BR><BR>
 Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
 Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2025](https://easychair.org/my/conference?conf=vdos2025)<BR>
