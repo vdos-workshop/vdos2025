@@ -12,7 +12,7 @@ The recordings of the VDOS 2025 talks will be made available through the [Biomed
 | :---: | :---: | :--- | :--- | 
 | | | **KG and ML (Moderator: Cui)** | | 
 | 9:00 AM | 9:05 AM | **Yongqun He** (University of Michigan) | Opening Remarks | 
-| 9:05 AM | 9:25 AM | **Muhammad Amith** (University of Texas Medical Branch) | Design and development of an ontology-based knowledge graph of immunization information exchange for a semantic blockchain | 
+| 9:05 AM | 9:25 AM | **Kevin Pasquette** (Vanderbilt University), **Muhammad Amith** (University of Texas Medical Branch) | Development and integration design of an ontology-based knowledge graph for immunization information exchange on a semantic blockchain | 
 | 9:25 AM | 9:45 AM | **Yuping Zheng** (Chinese University of Hong Kong) | VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation | 
 | 9:45 AM | 10:05 AM | **Matthew Asato** (University of Michigan) | VaxChat: An Agentic RAG Pipeline Integrating Knowledge Graphs and PubMed in the Vaccine Domain | 
 | | | **Keynote (Moderator: Oliver)** | | 
