@@ -24,8 +24,8 @@ The recordings of the VDOS 2025 talks will be made available through the [Biomed
 | 11:35 AM | 11:45 AM | **Jianfu Li** (Mayo Clinic) | Efficient Vaccine Ontology Mapping via TF-IDF Retrieval and Lightweight Fine-Tuned Reranking | |
 | | | **Ontology-supported LLM application (Moderator: Junguk)** | | |
 | 11:45 AM | 11:55 AM | **Weiguo Cao** (Mayo Clinic) | Thrombosis Risk Assessment from COVID-19 Vaccination via LLM-Driven Tabular Data Extraction | |
-| 11:55 AM | 12:15 PM | **Feng-Yu Yeh** (University of Michigan) | VaxCT: A Web-based Vaccine Clinical Trial Database Integrating Clinical Trials and VIOLIN Vaccine Resources | |
-| 12:15 PM | 12:25 PM | **Hasin Rehana** (University of North Dakota) | Automated Extraction and Classification of Vaccine Adjuvant Mechanisms Using Large Language Models | |
+| 11:55 AM | 12:15 PM | **Feng-Yu Yeh** (University of Michigan) | VaxCT: A Web-based Vaccine Clinical Trial Database Integrating Clinical Trials and VIOLIN Vaccine Resources | Y |
+| 12:15 PM | 12:25 PM | **Hasin Rehana** (University of North Dakota) | Automated Extraction and Classification of Vaccine Adjuvant Mechanisms Using Large Language Models | Y |
 | 12:25 PM | 12:40 PM | **Group** | Discussion | |
 
 <!--
