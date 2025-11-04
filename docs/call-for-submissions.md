@@ -11,7 +11,7 @@ Journal Paper submission: August 31, 2025<BR>
 Notification of acceptance: September 30, 2025<BR>
 EasyChair (full, short, & abstract) submission: October 15, 2025<BR>
 Notification of acceptance: October 31, 2025<BR><BR>
-Workshop: **To-Be-Determined (likely on or around November 7, 2025; Half-day**<BR>
+Workshop: November 7, 2025 (9 AM - 12:40 PM Eastern Standard Time)<BR>
 **Registration**: The link for registration will be made available soon, free of charge.<BR><BR>
 Zoom link: Please see the [Program](./program.md) page.<BR><BR>
 Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
