@@ -8,25 +8,25 @@ The recordings of the VDOS 2025 talks will be made available through the [Biomed
 ### Allocated time: **20 minutes** for full papers and **10 minutes** for short papers, both including Q&A.
 ### Virtual: [https://umich.zoom.us/j/91917548760](https://umich.zoom.us/j/91917548760) (Passcode: 690254)
 
-| Start Time | End Time | Presenter | Title | Confirmed |
-| :---: | :---: | :--- | :--- | :--- |
-| | | **KG and ML (Moderator: Cui)** | | |
-| 9:00 AM | 9:05 AM | **Yongqun He** (University of Michigan) | Opening Remarks | Y |
-| 9:05 AM | 9:25 AM | **Muhammad Amith** (University of Texas Medical Branch) | Design and development of an ontology-based knowledge graph of immunization information exchange for a semantic blockchain | |
-| 9:25 AM | 9:45 AM | **Yuping Zheng** (Chinese University of Hong Kong) | VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation | Y |
-| 9:45 AM | 10:05 AM | **Matthew Asato** (University of Michigan) | VaxChat: An Agentic RAG Pipeline Integrating Knowledge Graphs and PubMed in the Vaccine Domain | Y |
-| | | **Keynote (Moderator: Oliver)** | | |
-| 10:05 AM | 10:45 AM | **Rebecca Razc** (US FDA) | TBD | Y |
-| 10:45 AM | 10:55 AM | **Break** | | |
-| | | **LLM-based Ontology Mapping (Moderator: Oliver)** | | |
-| 10:55 AM | 11:15 AM | **Weiguo Cao** (Mayo Clinic) | Ontology-Guided Prompting Improves LLM Classification of Clinical Trial Phases and Myocarditis Signals in Moderna Vaccine Studies | |
-| 11:15 AM | 11:35 AM | **B. Damayanthi Jesudas** (University of Florida) | BERTopic-Driven Vaccine Ontology Development from Biomedical Texts: A Case Study on Plotkin’s Vaccines Corpus | Y |
-| 11:35 AM | 11:45 AM | **Jianfu Li** (Mayo Clinic) | Efficient Vaccine Ontology Mapping via TF-IDF Retrieval and Lightweight Fine-Tuned Reranking | |
-| | | **Ontology-supported LLM application (Moderator: Junguk)** | | |
-| 11:45 AM | 11:55 AM | **Weiguo Cao** (Mayo Clinic) | Thrombosis Risk Assessment from COVID-19 Vaccination via LLM-Driven Tabular Data Extraction | |
-| 11:55 AM | 12:15 PM | **Feng-Yu Yeh** (University of Michigan) | VaxCT: A Web-based Vaccine Clinical Trial Database Integrating Clinical Trials and VIOLIN Vaccine Resources | Y |
-| 12:15 PM | 12:25 PM | **Hasin Rehana** (University of North Dakota) | Automated Extraction and Classification of Vaccine Adjuvant Mechanisms Using Large Language Models | Y |
-| 12:25 PM | 12:40 PM | **Group** | Discussion | |
+| Start Time | End Time | Presenter | Title |
+| :---: | :---: | :--- | :--- | 
+| | | **KG and ML (Moderator: Cui)** | | 
+| 9:00 AM | 9:05 AM | **Yongqun He** (University of Michigan) | Opening Remarks | 
+| 9:05 AM | 9:25 AM | **Muhammad Amith** (University of Texas Medical Branch) | Design and development of an ontology-based knowledge graph of immunization information exchange for a semantic blockchain | 
+| 9:25 AM | 9:45 AM | **Yuping Zheng** (Chinese University of Hong Kong) | VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation | 
+| 9:45 AM | 10:05 AM | **Matthew Asato** (University of Michigan) | VaxChat: An Agentic RAG Pipeline Integrating Knowledge Graphs and PubMed in the Vaccine Domain | 
+| | | **Keynote (Moderator: Oliver)** | | 
+| 10:05 AM | 10:45 AM | **Rebecca Razc** (US FDA) | TBD | 
+| 10:45 AM | 10:55 AM | **Break** | | 
+| | | **LLM-based Ontology Mapping (Moderator: Oliver)** | | 
+| 10:55 AM | 11:15 AM | **Weiguo Cao** (Mayo Clinic) | Ontology-Guided Prompting Improves LLM Classification of Clinical Trial Phases and Myocarditis Signals in Moderna Vaccine Studies | 
+| 11:15 AM | 11:35 AM | **B. Damayanthi Jesudas** (University of Florida) | BERTopic-Driven Vaccine Ontology Development from Biomedical Texts: A Case Study on Plotkin’s Vaccines Corpus | 
+| 11:35 AM | 11:45 AM | **Jianfu Li** (Mayo Clinic) | Efficient Vaccine Ontology Mapping via TF-IDF Retrieval and Lightweight Fine-Tuned Reranking | 
+| | | **Ontology-supported LLM application (Moderator: Junguk)** | | 
+| 11:45 AM | 11:55 AM | **Weiguo Cao** (Mayo Clinic) | Thrombosis Risk Assessment from COVID-19 Vaccination via LLM-Driven Tabular Data Extraction | 
+| 11:55 AM | 12:15 PM | **Feng-Yu Yeh** (University of Michigan) | VaxCT: A Web-based Vaccine Clinical Trial Database Integrating Clinical Trials and VIOLIN Vaccine Resources | 
+| 12:15 PM | 12:25 PM | **Hasin Rehana** (University of North Dakota) | Automated Extraction and Classification of Vaccine Adjuvant Mechanisms Using Large Language Models | 
+| 12:25 PM | 12:40 PM | **Group** | Discussion | 
 
 <!--
 
