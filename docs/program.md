@@ -16,7 +16,7 @@ The recordings of the VDOS 2025 talks will be made available through the [Biomed
 | 9:25 AM | 9:45 AM | **Yuping Zheng** (Chinese University of Hong Kong) | VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation | 
 | 9:45 AM | 10:05 AM | **Matthew Asato** (University of Michigan) | VaxChat: An Agentic RAG Pipeline Integrating Knowledge Graphs and PubMed in the Vaccine Domain | 
 | | | **Keynote (Moderator: Oliver)** | | 
-| 10:05 AM | 10:45 AM | **Rebecca Razc** (US FDA) | TBD | 
+| 10:05 AM | 10:45 AM | **Rebecca Racz** (US FDA) | TBD | 
 | 10:45 AM | 10:55 AM | **Break** | | 
 | | | **LLM-based Ontology Mapping (Moderator: Oliver)** | | 
 | 10:55 AM | 11:15 AM | **Weiguo Cao** (Mayo Clinic) | Ontology-Guided Prompting Improves LLM Classification of Clinical Trial Phases and Myocarditis Signals in Moderna Vaccine Studies | 
