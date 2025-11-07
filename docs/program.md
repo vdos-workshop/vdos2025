@@ -7,7 +7,8 @@
 The recordings of the VDOS 2025 talks will be made available through the [Biomedical Ontology World YouTube Channel](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists). The recordings from the previous VDOS conferences are now available. 
 ### Allocated time: **20 minutes** for full papers and **10 minutes** for short papers, both including Q&A.
 ### Virtual: [https://umich.zoom.us/j/91917548760](https://umich.zoom.us/j/91917548760) (Passcode: 690254)
-
+<div style="width:100%; overflow-x:visible;">
+  
 | Start Time | End Time | Presenter | Title |
 | :---: | :---: | :--- | :--- | 
 | | | **KG and ML (Moderator: Cui)** | | 
@@ -27,6 +28,7 @@ The recordings of the VDOS 2025 talks will be made available through the [Biomed
 | 11:55 AM | 12:15 PM | **Feng-Yu Yeh** (University of Michigan) | VaxCT: A Web-based Vaccine Clinical Trial Database Integrating Clinical Trials and VIOLIN Vaccine Resources | 
 | 12:15 PM | 12:25 PM | **Hasin Rehana** (University of North Dakota) | Automated Extraction and Classification of Vaccine Adjuvant Mechanisms Using Large Language Models | 
 | 12:25 PM | 12:40 PM | **Group** | Discussion | 
+</div>
 
 <!--
 
