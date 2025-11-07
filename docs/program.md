@@ -4,7 +4,7 @@
 
 
 ## Conference Videos
-The recordings of the VDOS 2025 talks will be made available through the [Biomedical Ontology World YouTube Channel](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists). The recordings from the previous VDOS conferences are now available. 
+The recordings of the VDOS 2025 talks will be made, but only those for which the presenter has provided consent for sharing will be accessible through the [Biomedical Ontology World YouTube Channel](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists). The recordings from the previous VDOS conferences are now available. 
 ### Allocated time: **20 minutes** for full papers and **10 minutes** for short papers, both including Q&A.
 ### Virtual: [https://umich.zoom.us/j/91917548760](https://umich.zoom.us/j/91917548760) (Passcode: 690254)
   
