@@ -3,11 +3,16 @@
 ## Dr. Rebecca Racz, PharmD
 
 ## Title: 
+Application of Ontology at the US Food and Drug Administration: A Use Case on Secondary Pharmacology
 
-## Abstract: 
+## Description: 
+This presentation will give an introduction to the use of ontology and controlled terminologies at the US Food and Drug Administration. Additionally, secondary pharmacology will be presented as a use case where adding ontology and other types of structured data may benefit both regulatory review and research.
+
+## Affiliation: 
+Senior Scientific Advisor, US Food and Drug Administration
 
 ## Bio: 
-Dr. Rebecca Racz (PharmD, University of Michigan) brings a strong background in pharmacology and regulatory science to our workshop. After earning her Doctor of Pharmacy degree from the University of Michigan, she embarked on a career that spans clinical pharmacokinetics, adverse‐event analysis, and federal regulatory work. Dr. Racz has contributed to research at the U.S. Food and Drug Administration, specializing in drug safety and vaccine­related outcomes. Her commitment to advancing medication safety and evidence-based decision-making ensures she brings valuable insight and experience to our participants. <br><br>
+Dr. Rebecca Racz is a Senior Scientific Advisor in the FDA’s Office of Clinical Pharmacology.  She currently leads multiple projects in the office, including knowledge management and process improvement initiatives.  Dr. Racz is a pharmacist by training and received her BS in Biomolecular Science (2013) and PharmD (2016) from the University of Michigan.  She joined FDA’s Division of Applied Regulatory Science in 2016 and was the primary investigator on multiple research projects focusing on secondary and safety pharmacology, natural language processing, and database development.  She has published over 30 papers, serves as the lead for numerous international collaborations, and won the 2021 FDA Outstanding Junior Investigator Award. <br><br>
 <img src='https://media.licdn.com/dms/image/v2/C4E03AQEaj3_yQFyAfg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1660047384491?e=1762992000&v=beta&t=Q6GbwaNz5WNRKvoI7oilEo4AJBXucLPap1EiWJW-jJQ' align='left' style='margin:10px 20px 0px 0px' /> <br><br>
 [Linkedin page](https://www.linkedin.com/in/raczpharmd/)
 
