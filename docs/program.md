@@ -4,7 +4,7 @@
 
 
 ## Conference Videos
-[The recordings of the VDOS 2025 talks ](https://www.youtube.com/watch?v=bUBtAB2rr8U&list=PLhzFEi0G-n-tyOTEZPI6giAN1DHB6C2_t&index=2) are now available, for which the presenter has provided consent for sharing through the [Biomedical Ontology World YouTube Channel](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists). The recordings from the previous VDOS conferences are now available. 
+[<img src="./youtube.png" width="20px">The recordings of the VDOS 2025 talks](https://www.youtube.com/watch?v=bUBtAB2rr8U&list=PLhzFEi0G-n-tyOTEZPI6giAN1DHB6C2_t&index=2) are now available, for which the presenter has provided consent for sharing through the [Biomedical Ontology World YouTube Channel](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists). The recordings from the previous VDOS conferences are now available. 
 
 
 ### Allocated time: **20 minutes** for full papers and **10 minutes** for short papers, both including Q&A.
